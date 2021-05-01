@@ -1,16 +1,24 @@
-### Hi there 👋
+ # **Hi, I'm Helmut** 💻 👋 
+###  
+![GitHub Logo](ju1_git.png)
 
-<!--
-**HelmutMadeiro/HelmutMadeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 
 
-Here are some ideas to get you started:
+* 💻 Database Administration.
+* 🎓 Bachelor of Information System.
+* 🎓 Postgraduate Engineering and Administration in Database - UNICAMP.
+* 🎓 Master of Business Administration in Data Science and Analytics - USP
+## Skills 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python.
+* 📈 R.
+* 🗄 SQL.
+* 🧮 Power BI.
+* 🔮 Machine Learning. 
+* 📊 Data Visualization
+
+## Find me around the world :earth_americas:
+
+*  [Linkedin]( https://www.linkedin.com/in/helmutmadeiro/)
+*  [Instagram]( https://www.instagram.com/helmutmadeiro/)
+*  [Blog](https://www.flai.com.br/juscudilio/)
