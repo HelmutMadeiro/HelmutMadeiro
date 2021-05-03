@@ -21,4 +21,4 @@
 
 *  [Linkedin]( https://www.linkedin.com/in/helmutmadeiro/)
 *  [Instagram]( https://www.instagram.com/helmutmadeiro/)
-*  [Blog](https://www.flai.com.br/juscudilio/)
+*  [Blog](http://dbaadministrator.blogspot.com/)
