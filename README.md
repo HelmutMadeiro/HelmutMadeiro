@@ -1,6 +1,6 @@
  # **Hi, I'm Helmut** 💻 👋 
 ###  
-![GitHub Logo](Helmut.jfif)
+![GitHub Logo](Helmut.PNG)
 
 ## Who am I? 
 
