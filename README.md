@@ -2,7 +2,7 @@
 ###  
 ![GitHub Logo](Helmut.PNG)
 
-## Who am I? 
+## Who am I? .
 
 * 💻 Database Administration.
 * 🎓 Bachelor of Information System.
