@@ -5,6 +5,7 @@
 ## Who am I? ...
 
 * 💻 Database Administration.
+* 💻 Data Engineer
 * 🎓 Bachelor of Information System.
 * 🎓 Postgraduate Engineering and Administration in Database - UNICAMP.
 * 🎓 Master of Business Administration in Data Science and Analytics - USP
