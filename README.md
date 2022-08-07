@@ -15,7 +15,7 @@
 * 📈 R.
 * 🗄 SQL.
 * 🧮 Power BI.
-* 🔮 Machine Learning. 
+* 🔮 Data Engineer 
 * 📊 Data Visualization
 
 ## Find me around the world :earth_americas:
